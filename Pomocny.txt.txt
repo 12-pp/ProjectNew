@@ -1,1 +1,3 @@
 Toto je prvni soubor do repo
+
+zmeny do dalsi verze
